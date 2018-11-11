@@ -14,6 +14,7 @@
 body{
   background-image: url("./lib/imgs/initial-background.jpg");
 }
+
 #searchlocations{
   border-radius: 15px;
   border-style: solid;
@@ -47,7 +48,7 @@ body{
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="#">Search location <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link</a>
@@ -70,18 +71,20 @@ body{
   </nav>
   <div id="searchlocations" class="col-4 ml-4 mt-4">
     <div id="titlesearch">
-      <h5>Location</h5> <br>
       <i id="mapmarker" class="fas fa-map-marker-alt fa-3x"></i><br><br>
     </div>
     <div id="entersearch">
       <form>
-        <input class="form-control" type="text" placeholder="Enter location"> <br>
+        <input id="searchinput" class="form-control" type="text" placeholder="Enter location"> <br>
         <button class="btn btn-outline-danger my-2 my-sm-0" type="submit">Search</button>
       </form>
-      <div>
-      </div>
+    </div>
+  </div>
       <script>
       var locations= ["Barcelona"];
+      $( "#searchinput" ).autocomplete({
+        source: locations
+      });
     </script>
   </body>
   </html>
