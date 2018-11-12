@@ -15,7 +15,7 @@
   <body  style="font-family: Arial, Helvetica, sans-serif;">
     <xsl:for-each select="places/place">
     <div class="card padding" style="width: 18rem;">
-        <img class="card-img-top" src="..." alt="Card image cap"/>
+        <img class="card-img-top" src="{image}" alt="Card image cap"/>
         <div class="card-body">
           <h5 class="card-title"><xsl:value-of select="title"/></h5>
           <p class="card-text"><xsl:value-of select="description"/></p>
