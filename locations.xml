@@ -20,12 +20,22 @@
     <image>lib/imgs/imagesLocations/cementerio-de-animales.jpg</image>
   </place>
   <place id='3'>
-    <title>Cementerio de mascotas de Torrelles de Llobregat</title>
-    <description>En el enclave se han dado diferentes fenómenos paranormales,
-       en especial apariciones de mascotas ya fallecidas. Marisol Roldán
-       escribió un artículo para Mundo Parapsicológico haciéndose eco de
-       diferentes situaciones en el lugar.</description>
-    <location>41.346554, 1.951327</location>
-    <image>lib/imgs/imagesLocations/cementerio-de-animales.jpg</image>
+    <title>Parador de Cardona</title>
+    <description>En una habitación en concreto, la 712, dicen que es el
+      epicentro de la fenomenología en el lugar. El propio director del
+       Parador afirma, sin tapujos, la realidad de los sucesos. </description>
+    <location>41.914670, 1.685736</location>
+    <image>lib/imgs/imagesLocations/parador-de-cardona.jpg</image>
+  </place>
+  <place id='4'>
+    <title>Avistamientos OVNI todos los días 11 en Montserrat</title>
+    <description>Grifoll asegura que todos los días 11 de cada mes allí
+       se aparecen objetos volantes no identificados a raíz de un contacto
+        que tuvo hace casi tres décadas. Lo cierto es que la zona es un punto
+        caliente en cuanto a avistamientos OVNI en España se refiere. Desde
+        aquí recomendamos su asistencia al menos una vez para saciar su
+         curiosidad.</description>
+    <location>41.594950, 1.767799</location>
+    <image>lib/imgs/imagesLocations/Ovni.jpg</image>
   </place>
 </places>
