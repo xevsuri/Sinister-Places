@@ -23,3 +23,65 @@ body{
   text-align: center;
   padding: 10px;
 }
+
+#searchlocations{
+  border-radius: 15px;
+  border-style: solid;
+  border-color: red;
+  border-width: 1px;
+
+
+}
+#mapmarker{
+  color: red;
+}
+#titlesearch{
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+#entersearch{
+  text-align: center;
+  padding: 10px;
+}
+.bg-success {
+     background-color: transparent!important;
+     background-image: url("./lib/imgs/initial-background.jpg");
+    background-repeat: no-repeat;
+   background-size: 100% 
+}
+.bg-warning {
+    background-color: #212529!important; 
+    color:white;
+
+}
+.bg-secondary{
+   background-color: transparent!important; 
+}
+.form-control{
+  width: 50% !important;
+}
+.container-fluid{
+  height: 100% !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #212529;
+    border-color: white;
+
+}
+#formContacto{
+  width: 55%;
+  padding: 25pt;
+  margin-right: auto;
+  margin-left: auto;
+}
+#section1{
+  height: 100%;
+
+}
+
+  body {
+      position: relative; 
+  }
