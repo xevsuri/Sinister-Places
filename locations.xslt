@@ -13,6 +13,7 @@
     </style>
   </head>
   <body  style="font-family: Arial, Helvetica, sans-serif;">
+    <div class="row">
     <xsl:for-each select="places/place">
     <div class="card padding" style="width: 18rem;">
         <img class="card-img-top" src="{image}" alt="Card image cap"/>
@@ -23,5 +24,6 @@
         </div>
     </div>
   </xsl:for-each>
+</div>
   </body>
 </html>
