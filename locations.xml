@@ -2,9 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="locations.xslt"?>
 <places>
   <place id='1'>
-    <title>Titulo de  ejemplo</title>
-    <description> Descripción de ejemplo</description>
-    <location>41.386032, 2.154604</location>
-    <image>./lib/imgs/imagesLocations/image.png</image>
+    <title>Hotel Colonia Puig</title>
+    <description>Antiguo hospital de guerra recovertido en hotel y finalmente
+      abandonado. La historia de este enclave pasa por momentos, podríamos
+      decir, bastante históricos. Además, su entorno hace de el un sitio más
+       tétrico si cabeLeyenda</description>
+    <location>41.609989, 1.827050</location>
+    <image>lib\imgs\imagesLocations\Hotel colonia.jpg</image>
   </place>
 </places>
