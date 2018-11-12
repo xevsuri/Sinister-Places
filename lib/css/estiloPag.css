@@ -1,0 +1,23 @@
+body{
+  background-image: url("./lib/imgs/initial-background.jpg");
+}
+#searchlocations{
+  border-radius: 15px;
+  border-style: solid;
+  border-color: red;
+  border-width: 1px;
+
+
+}
+#mapmarker{
+  color: red;
+}
+#titlesearch{
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+#entersearch{
+  text-align: center;
+  padding: 10px;
+}
