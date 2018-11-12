@@ -1,5 +1,5 @@
 body{
-  background-image: url("./lib/imgs/initial-background.jpg");
+  background-image: url("..imgs/initial-background.jpg");
 }
 #searchlocations{
   border-radius: 15px;
