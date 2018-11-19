@@ -1,0 +1,19 @@
+body{
+	background-color: #151515 !important;
+}
+
+.card-columns{
+	background-color: #151515;
+}
+.tituloXML{
+	color: white;
+	text-align: center;
+	background-color: #151515;	
+	padding: 3%;
+}
+.card-text{
+	text-align: justify;
+}
+.card-title{
+	border-bottom: 1px solid #151515;
+}
