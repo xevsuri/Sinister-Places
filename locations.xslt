@@ -14,7 +14,7 @@
   <body style="font-family: Arial, Helvetica, sans-serif"  >
 
     <div class="tituloXML"><h1>SINISTERS</h1></div>
-    <div class="card-columns" bgcolor= "#151515" style="display: flex; justify-content: space-around"   >
+    <div class="card-columns" bgcolor= "#151515"   >
     <xsl:for-each select="places/place">
     <div class="card padding" style="width: 20rem" >
         <img class="card-img-top" src="{image}" alt="Card image cap" style="padding:10px"/>

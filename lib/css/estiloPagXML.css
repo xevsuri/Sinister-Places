@@ -20,3 +20,9 @@ body{
 .card-title{
 	border-bottom: 1px solid #151515;
 }
+.card-columns{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
