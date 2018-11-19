@@ -4,12 +4,15 @@ body{
 
 .card-columns{
 	background-color: #151515;
+	padding-top: 3%;
 }
 .tituloXML{
-	color: white;
+	color: red;
 	text-align: center;
 	background-color: #151515;	
-	padding: 3%;
+	padding-top: 3%;
+	font-family: Impact;
+	border-bottom: 2px solid red;
 }
 .card-text{
 	text-align: justify;
