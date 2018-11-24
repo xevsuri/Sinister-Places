@@ -1,16 +1,37 @@
-body{
-  background-image: url("../imgs/initial-background.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%
+body, html{
+  height: 100%;
+  margin: 0;
 }
+
 #searchlocations{
   border-radius: 15px;
   border-style: solid;
   border-color: red;
-  border-width: 1px;
-
-
+  border-width: 0px;
+  position: relative;
+  top: 20%;
 }
+
+#mapmarker{
+  color: red;
+}
+
+#titlesearch{
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+#search{
+  margin: 0 auto;
+}
+#entersearch{
+
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+
 #mapmarker{
   color: red;
 }
@@ -22,4 +43,42 @@ body{
 #entersearch{
   text-align: center;
   padding: 10px;
+}
+
+.bg-warning {
+    background-color: #212529!important;
+    color:white;
+
+}
+.bg-secondary{
+   background-color: transparent!important;
+}
+.form-control{
+  width: 50% !important;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #212529;
+    border-color: white;
+
+}
+.center_input{
+  margin: 0 auto;
+  width:80%
+}
+.center_container{
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#section1{
+  min-height: 100%;
+  height: 100%;
+  background-image: url("../imgs/initial-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
