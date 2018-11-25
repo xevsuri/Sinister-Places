@@ -26,3 +26,34 @@ body{
 	justify-content: center;
 }
 
+
+#Contenido  {
+	position: relative;
+	max-width:auto;
+	margin-top:20px;
+	margin-left:20px;
+	margin-right: 20px;
+	color: white;
+	/*border: 1px solid blue;*/
+}
+#imagenes {
+	position:relative;
+	width:400px;
+	top: 100%;
+	left: 25%;
+}
+
+#boton {
+	position:relative;
+	top:10px;
+	left: 25%;
+}
+#section1{
+	position:relative;
+	top:50px;
+
+}
+
+#section2{
+	position:relative;
+}

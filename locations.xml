@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="locations.xslt"?>
+<?xml-stylesheet type="text/xsl" href="index.xslt"?>
 <places>
-  <place id='1'>
+  <place id='0'>
     <title>Hotel Colonia Puig</title>
     <description>Antiguo hospital de guerra recovertido en hotel y finalmente
       abandonado. La historia de este enclave pasa por momentos, podríamos
@@ -10,7 +10,7 @@
     <location>41.609989, 1.827050</location>
     <image>./lib/imgs/imagesLocations/Hotel colonia.jpg</image>
   </place>
-  <place id='2'>
+  <place id='1'>
     <title>Cementerio de mascotas de Torrelles de Llobregat</title>
     <description>En el enclave se han dado diferentes fenómenos paranormales,
        en especial apariciones de mascotas ya fallecidas. Marisol Roldán
@@ -19,7 +19,7 @@
     <location>41.346554, 1.951327</location>
     <image>lib/imgs/imagesLocations/cementerio-de-animales.jpg</image>
   </place>
-  <place id='3'>
+  <place id='2'>
     <title>Parador de Cardona</title>
     <description>En una habitación en concreto, la 712, dicen que es el
       epicentro de la fenomenología en el lugar. El propio director del
@@ -27,7 +27,7 @@
     <location>41.914670, 1.685736</location>
     <image>lib/imgs/imagesLocations/parador-de-cardona.jpg</image>
   </place>
-  <place id='4'>
+  <place id='3'>
     <title>Avistamientos OVNI todos los días 11 en Montserrat</title>
     <description>Grifoll asegura que todos los días 11 de cada mes allí
        se aparecen objetos volantes no identificados a raíz de un contacto
