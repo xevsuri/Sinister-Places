@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="index.xslt"?>
-<places>
+<div> 
   <place id='0'>
     <title>Hotel Colonia Puig</title>
     <description>Antiguo hospital de guerra recovertido en hotel y finalmente
